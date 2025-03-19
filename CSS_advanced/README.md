@@ -4,14 +4,14 @@
 
 ## Table of Contents 📑
 
-- [Overview](#overview)
-- [Project Objectives](#project-objectives)
-- [Technologies](#technologies)
-- [Files and Directory Structure](#files-and-directory-structure)
-- [Setup and Usage](#setup-and-usage)
-- [Tasks](#tasks)
-- [Resources](#resources)
-- [Author](#author)
+- [Overview](#overview-)
+- [Project Objectives](#project-objectives-)
+- [Technologies](#technologies-)
+- [Files and Directory Structure](#files-and-directory-structure-)
+- [Setup and Usage](#setup-and-usage-)
+- [Tasks](#tasks-)
+- [Resources](#resources-)
+- [Author](#author-)
 
 ## Overview 🔍
 
